@@ -1,7 +1,7 @@
 # Interactive Resume Builder
 
 # Student - Siddhant Sharma
-# Github repo - 
+# Github repo - https://github.com/CODE-HUB07/Vault_Of_Code_Assignment_02
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)

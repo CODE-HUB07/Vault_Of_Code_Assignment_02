@@ -1,7 +1,10 @@
 # Interactive Resume Builder
 
-# Student - Siddhant Sharma
-# Github repo - https://github.com/CODE-HUB07/Vault_Of_Code_Assignment_02
+## Student - Siddhant Sharma
+## Email - sidsharma9752@gmail.com
+## Github repo - https://github.com/CODE-HUB07/Vault_Of_Code_Assignment_02
+## Netlify Deployed Link - https://voc-a01.netlify.app/
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
